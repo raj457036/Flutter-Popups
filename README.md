@@ -4,7 +4,7 @@ A simple and tiny popup Widget to achive popup like **Bootstrap 4** or **popper.
 
 ## Demo
 
-![demo of the widget](./assets/demo.gif | height=300)
+<img src="./assets/demo.gif" alt="Flutter popups demo" height="720">
 
 ## How to use
 
