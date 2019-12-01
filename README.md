@@ -2,6 +2,8 @@
 
 A simple and tiny popup Widget to achive popup like **Bootstrap 4** or **popper.js** and more in flutter apps.
 
+<img src="./assets/image.png" alt="Flutter Popup" width="350">
+
 ## Demo
 
 <img src="./assets/demo.gif" alt="Flutter popups demo" height="720">
