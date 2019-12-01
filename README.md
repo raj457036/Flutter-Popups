@@ -4,7 +4,7 @@ A simple and tiny popup Widget to achive popup like **Bootstrap 4** or **popper.
 
 ## Demo
 
-![demo of the widget](./assets/demo.gif)
+![demo of the widget](./assets/demo.gif =100x)
 
 ## How to use
 
